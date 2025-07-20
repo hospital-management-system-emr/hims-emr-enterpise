@@ -7,7 +7,7 @@
 The Request Medication form now includes a new 'Free Text Dosage' toggle button that allows healthcare providers to enter custom dosage instructions directly, providing flexibility.
 
 ---
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/93b59860-14e3-493a-b64f-9f897bf82341" />
+<img width="1920" height="1020" alt="image" src="./images/free dosage.png" />
 
 ---
 ## Implementation Details

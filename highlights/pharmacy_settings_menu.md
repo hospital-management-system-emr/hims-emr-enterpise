@@ -7,7 +7,7 @@
  A dedicated Settings menu has been introduced under the Pharmacy section, providing access to Routes, Frequency and Intake timimgs configuration options that were previously fixed.
  
 ---
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c2a1e76d-4318-49e8-9f0b-bdc644407b6f" />
+<img width="1920" height="1020" alt="image" src="./images/medical variable.png" />
 
 ---
 

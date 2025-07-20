@@ -7,7 +7,7 @@
 Payment and receipt vouchers now has configurable formatting options, allowing hospitals to choose between single-entry and mixed-entry voucher formats based on their accounting preferences.
 
 ---
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ca5844ea-14b8-4546-83c0-5431ac6f4de2" />
+<img width="1920" height="1020" alt="image" src="./images/payment voucher.png" />
 
 ---
 

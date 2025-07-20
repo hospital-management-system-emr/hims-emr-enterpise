@@ -7,7 +7,7 @@
 A new medical component mapping system has been introduced, providing a single location where users can link medical components (services) to users, departments. This eliminates the need to navigate multiple screens and significantly reduces administrative overhead.
 
 ---
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/5a8b5642-6b51-4733-a870-f9f1c399ac3c" />
+<img width="1920" height="1020" alt="image" src="./images/medical mapping.png" />
 
 ---
 ## Workflow
