@@ -7,7 +7,7 @@
 Sales invoices now display GST (Goods and Services Tax) breakdowns with automatic tax calculations based on transaction type and location.
 
 ---
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d92b55b6-06d4-4b60-a32e-401ce961e60a" />
+<img width="1920" height="1020" alt="image" src="./images/tax breakdown.png" />
 
 
 ---
