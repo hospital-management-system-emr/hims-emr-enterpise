@@ -5,7 +5,7 @@
 ## Overview
  - A new Cancel Voucher tab has been added to the Accounting module, providing a dedicated interface for managing, reversing, and tracking incorrect or unwanted     financial vouchers.
 ---
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6d97d18e-ebd9-4a14-8358-e3bf825dc7b9" />
+<img width="1920" height="1020" alt="image" src="./images/cancelvoucher.png" />
 
 ---
 
