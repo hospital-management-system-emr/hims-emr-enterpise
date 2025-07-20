@@ -7,7 +7,7 @@
 A new administrative page has been introduced to settings module. This feature provides administrators with a interface to manage all essential hospital details.
 
 ---
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a6f4b07c-1b80-44a4-bf65-1e5df720a365" />
+<img width="1920" height="1020" alt="image" src="./images/admin page.png" />
 
 ---
 
