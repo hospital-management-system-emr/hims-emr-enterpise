@@ -7,7 +7,7 @@
 The dispensary sales workflow has been streamlined, what was previously a two-step process into a single-click operation.
 
 ---
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1858ac35-279e-4dd0-8ec0-35241ec6ba8a" />
+<img width="1920" height="1020" alt="image" src="./images/dispensary.png" />
 
 
 ---
